@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndPrj1</string>
+    <string name="add">Add</string>
+    <string name="save">Save</string>
+    <string name="edit">Edit Content Below:</string>
+    <string name="textview">Edit Content Below:</string>
+    <string name="Save">Save Content</string>
+</resources>

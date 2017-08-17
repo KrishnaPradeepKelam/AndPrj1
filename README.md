@@ -46,7 +46,14 @@ Android studio is really a good editor to code and design the UI. Working on And
 
 **Question 2:** "Take a moment to reflect on the `ArrayAdapter` used in your pre-work. How would you describe an adapter in this context and what is its function in Android? Why do you think the adapter is important? Explain the purpose of the `convertView` in the `getView` method of the `ArrayAdapter`."
 
-**Answer:** [Enter your answer here in a paragraph or two].
+- An adapter is a bridge between UI component and data source that helps us to fill data in UI component. It holds the data and then sends the data to Adapter view
+- ArrayAdapter is a utility function used for listview or grid view which converts and show each object data from the list of objects. 
+- In the pre-work example we use ArrayAdapter for handling the listview which holds the list of user entered data.
+- The default ArrayAdapter converts an array item into a String object putting it into a TextView. 
+- The text view is then displayed in the AdapterView , after creating the Adapter we need to supply the layout for displaying each array string such as 'simple_list_item_1'
+-'convertView' this is used for increasing the performance by re-using the old view. If the list view has more entries and layout shows less items,
+  then on scolling down 'covertView' shall re-use the previously created object views instead of creating new Objects.
+  
 
 ## Notes
 

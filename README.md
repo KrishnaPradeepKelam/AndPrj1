@@ -32,7 +32,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 markdown
-![GitHub Logo](TODO.gif)
+![GitHub Logo](https://github.com/KrishnaPradeepKelam/AndPrj1/blob/master/Todo.gif)
 
 ## Project Analysis
 

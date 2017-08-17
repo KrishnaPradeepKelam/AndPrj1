@@ -32,7 +32,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 
-<a href="https://imgflip.com/gif/1u8cb8"><img src="https://i.imgflip.com/1u8cb8.gif" title="made at imgflip.com"/></a>
+<a href="https://imgflip.com/gif/1u8dba"><img src="https://i.imgflip.com/1u8dba.gif" title="made at imgflip.com"/></a>
 ## Project Analysis
 
 As part of your pre-work submission, please reflect on the app and answer the following questions below:
